@@ -1,0 +1,4 @@
+flask
+config
+python-dotenv
+flask_sqlalchemy
